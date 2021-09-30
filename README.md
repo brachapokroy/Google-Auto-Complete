@@ -1,5 +1,5 @@
-# googleProject
-AutoCompleteData
+# Google-Auto-Complete
+Auto Complete Sentences
 
 In this project we got a huge directory tree archive.
 We then let the user insert any word/sentence that he wishes.
